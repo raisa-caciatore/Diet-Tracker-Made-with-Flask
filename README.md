@@ -1,4 +1,4 @@
-<h1> Basic-Diet-Tracker-Made-Using-Flask-with-MySQL-Connectivity</h1> 
+<h1> Basic Diet Tracker Made Using Flask with MySQL</h1> 
 
 <h4>
   We can add Food Items to the Web Page<br> <br> 
